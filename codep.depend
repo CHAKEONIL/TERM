@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1611559724 source:c:\users\kukki\onedrive\πŸ≈¡ »≠∏È\fdm c\codep\main.cpp
+	<iostream>
+
+1628491872 source:c:\users\admin\desktop\fdm\fdm c\codep\main.cpp
+	<random>
+	<chrono>
+	<cmath>
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+
